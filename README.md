@@ -1,1 +1,1 @@
-This folder contains all of my data analysis projects  python.
+This folder contains all of my data analysis projects with python.
